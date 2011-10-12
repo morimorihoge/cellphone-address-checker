@@ -9,25 +9,25 @@ This version supports only Japanese cellphone carriers: DoCoMo, AU, Softbank and
 
 == FEATURES/PROBLEMS:
 
-
+hoge
 
 == SYNOPSIS:
 
-  FIX (code sample of usage)
+hoge
 
 == REQUIREMENTS:
 
-* FIX (list of requirements)
+Tested by Ruby 1.9.2p290
 
 == INSTALL:
 
-* FIX (sudo gem install, anything else)
+* gem install cellphone-address-checker
 
 == LICENSE:
 
 (The MIT License)
 
-Copyright (c) 2011 FIXME full name
+Copyright (c) 2011 Masato Mori
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
